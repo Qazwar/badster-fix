@@ -1,0 +1,42 @@
+﻿  DLLMain.cpp
+  ClantagChanger.cpp
+  LegitBot.cpp
+  Miscellaneous.cpp
+  NameChanger.cpp
+  PredictionSystem.cpp
+  Visuals.cpp
+  FakeLag.cpp
+  GameEvent.cpp
+  CreateMove.cpp
+  DrawModelExecute.cpp
+  EndScene.cpp
+  FrameStageNotify.cpp
+  OverrideView.cpp
+  PaintTraverse.cpp
+  PlaySound.cpp
+  WndProc.cpp
+  imgui_dx9.cpp
+  imgui.cpp
+  imgui_draw.cpp
+  Компиляция...
+  ConVar.cpp
+  Draw.cpp
+  Entity.cpp
+  Input.cpp
+  Interfaces.cpp
+  IBaseClientDLL.cpp
+  IInputSystem.cpp
+  IMaterialSystem.cpp
+  ISurface.cpp
+  IVModelRender.cpp
+  IVPanel.cpp
+  Math.cpp
+  NetVarManager.cpp
+  Config.cpp
+  Global.cpp
+  Offsets.cpp
+  Util.cpp
+  SkinChanger.cpp
+  Создание кода
+  Создание кода завершено
+  Framework.vcxproj -> C:\Users\lord_\Desktop\badster\Release\csgosimple.dll
